@@ -1,0 +1,1 @@
+# QuickCart-Stockout-Risk-Prediction-Inventory-Intelligence-System
